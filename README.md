@@ -89,6 +89,23 @@ Bài này chỉ cần dùng hàm pow trong python ta dễ dàng tính được k
 
 
 
+![image](https://github.com/hieubmt1112004/Network/assets/125638408/cee01e46-7a62-4b84-9bc7-025af4a9cc34)
+
+
+
+
+
+
+![image](https://github.com/hieubmt1112004/Network/assets/125638408/bb48aaf5-cef0-48e7-85f4-d887f0ed5ab9)
+
+
+![image](https://github.com/hieubmt1112004/Network/assets/125638408/96f2d3ea-9d97-4cf5-bc9b-776b7058881a)
+
+
+
+
+
+
 
 
 
