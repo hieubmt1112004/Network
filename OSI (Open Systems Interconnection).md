@@ -11,8 +11,12 @@ Những lợi ích của mô hình OSI :
   + Chia nhỏ mô hình để chúng ta có thể phân tích từng phân lớp trong mô hình OSI
 
 Khi một mô hình mạng không kết nối được ( bị lỗi ) dựa vào mô hình OSI ta có thể kiểm tra bằng những cách sau : 
- + Tầng vật lí : kiểm tra giác cắm , dây cắm
- + Tầng data link : Kiểm tra router và card mạng
- + Kiểm tra lại máy tính đã có IP hay chưa hoặc có bị trùng với các thiết bị khác hay không 
- + Kiểm tra lại tường lửa coi có chặn một truy cập nào đó hay không 
+ + Tầng vật lí : là đường đi của các tín hiệu điện khi vào 1 thiết bị dưới dạng bit (1/0)
+ + Tầng data link : Ở tầng này liên quan tới card mạng và địa chỉ Mac 
+ + Tầng Network : Tầng này liên quan trực tiếp tới IP ( định tuyến ) 
+ + Tầng Transport : là tầng giao thức chuyển đổi ( TCP / UDP ) 
+ + Tầng session : Tầng phiên ( mở 1 phiên giao tiếp giữa 2 máy tính )
+ + Tầng presentation: là tầng mà để giải mã / mã hóa dữ liệu . nén / giải nén
+ + Tầng application: Tầng giao diện ( là tầng mà người dùng truy cập trực tiếp .vd web ( http/https) )
+    
 
